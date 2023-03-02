@@ -1,6 +1,6 @@
 <?php
 
-$conexion = mysqli_connect("localhost", "root", "e5CHUQFKJJ", "consultorio_medico1");
+$conexion = mysqli_connect("localhost", "root", "", "consultorio_medico1");
  //or die(mysql_error($mysqli));
  //Realiza la conexion
 
